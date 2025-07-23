@@ -1,4 +1,16 @@
-## Hi there 👋
+## こんちくわ
+
+自己紹介
+
+出身・居住国 日本
+
+好きなゲーム
+
+恋愛ADVから音ゲーまで幅広くプレイしております✨
+
+githubでやりたいこと
+
+音ゲーの創作譜面などに便利なツールをGUIまたはCUIで作成して配布しようと思っております
 
 <!--
 **ruri-nya/ruri-nya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
