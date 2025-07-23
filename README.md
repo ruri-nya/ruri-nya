@@ -2,6 +2,9 @@
 
 自己紹介
 
+メイン言語・
+Python
+
 居住国・
 日本
 
@@ -9,7 +12,7 @@
 恋愛ADVから音ゲーまで幅広くプレイしております✨
 
 githubでやりたいこと・
-音ゲーの創作譜面などに便利なツールをGUIまたはCUIで作成して配布しようと思っております
+音ゲーの創作譜面などに便利なツールをGUIまたはCUIで作成して配布しようと思ってます
 
 <!--
 **ruri-nya/ruri-nya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
